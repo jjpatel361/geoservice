@@ -1,0 +1,6 @@
+{
+    "host"     : "localhost",
+    "user"     : "root",
+    "password" : "admin@123",
+    "database" : "vistra"
+}
